@@ -1,4 +1,6 @@
-# administration
+This file: https://github.com/makerclubatius/administration/blob/master/README.md
+
+# Administration of the Maker Club at IUS
 
 There is a shared google drive folder for the administration of the Maker Club at IUS. 
 
@@ -9,8 +11,7 @@ There is a shared google drive folder for the administration of the Maker Club a
 * Chris Kimmer <cjkimmer@ius.edu>
 * Joseph Dukes <joedukes@gmail.com>
 
-# Directory Structure of Google Drive folder makerclubatius
-
+## Directory Structure of Google Drive folder makerclubatius
 
 * [makerclubatius](https://drive.google.com/drive/folders/0B1erolBLcc7vbFFKLUhqQW1lTWc) (Specific people can access, requires invite.)
   * [makerclubatius-public-on-the-web](https://drive.google.com/drive/folders/0B1erolBLcc7vYTlpMzQ3bFQyYjg) (Public on the web, anyone on the internet can find and view)
@@ -22,4 +23,10 @@ There is a shared google drive folder for the administration of the Maker Club a
   * private-members-only (Specific people can access, requires invite.)
     * (Contents hidden)
 
+## Other Online Accounts
 
+* Email: Maker Club at IUS <makerclubatius@gmail.com>
+* Facebook: https://facebook.com/makerclubatius
+* Github: https://github.com/makerclubatius
+* Twitter: https://twitter.com/makerclubatius
+* Website: https://grenadiercentral.ius.edu/organization/makerclub
